@@ -1,6 +1,6 @@
 cask "raindrop" do
-  version "2.3.0"
-  sha256 "85e7a3409b0caba3d54cb99dd88803a61dc161fc3adba7f86f1c5fab405a93f3"
+  version "2.3.1"
+  sha256 "ae64c87ace0d22375ccd3c6c6b51e3fcb3e4c680857390165355e570c06e079e"
 
   url "https://github.com/mgm136044/Raindrop/releases/download/v#{version}/RainDrop.zip"
   name "RainDrop"
